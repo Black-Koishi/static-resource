@@ -1,5 +1,32 @@
 {
-	"mouseover": [{
+	"mouseover": [{ "selector": ".esa-profile-avatar", "text": ["这是主人的宝贝呢"] },
+	{ "selector": "#blog_nav_myhome", "text": ["想要回首页看看么"] },
+	{ "selector": "#blog_nav_contact", "text": ["这里可以联系到主人呢"] },
+	{ "selector": "#blog_nav_myguanyu", "text": ["这里可以详细了解主人哦"] },
+	{ "selector": "#blog_nav_myyoulian", "text": ["想要添加个<span style=\"color:#0099cc;\">友链</span>嘛"] },
+	{ "selector": "#comment_go", "text": ["想要去评论些什么吗？"] },
+	{ "selector": "#night_mode", "text": ["深夜时要爱护眼睛呀"] },
+	{ "selector": ".esa-toolbar .esa-toolbar-follow", "text": ["你抓到我了哦嘻嘻嘻ψ(｀∇´)ψ"] },
+	{ "selector": ".comment_reply", "text": ["要吐槽些什么呢"] },
+	{ "selector": "#div_digg .buryit", "text": ["不要哇,不要点反对鸭(哭哭)"] },
+	{ "selector": "#author", "text": ["该怎么称呼你呢"] },
+	{ "selector": "#div_digg .diggit", "text": ["如果觉得我家主人写的不错的话，点个赞鸭"] },
+	{ "selector": "#div_digg .reward", "text": ["哇,你要给我买糖果吗"] },
+	{ "selector": "#div_digg .favorite", "text": ["喜欢就收藏吧，不要被主人发现了"] },
+	{ "selector": "div.commentform textarea", "text": ["认真填写哦，窝家主人会认真看哒"] },
+	{ "selector": ".av", "text": ["快把你的小爪子拿开！"] },
+	{ "selector": "input[name=s]", "text": ["找不到想看的内容？搜索看看吧"] },
+	{ "selector": ".previous", "text": ["去上一页看看吧"] },
+	{ "selector": ".next", "text": ["去下一页看看吧"] },
+	{ "selector": "#cnblogs_post_body img", "text": ["点击图片可以放大呢"] },
+	{ "selector": ".aplayer-pic", "text": ["想要听点音乐吗"] },
+	{ "selector": ".aplayer-bar-wrap", "text": ["在这里可以调整<span style=\"color:#0099cc;\">播放进度</span>呢"] },
+	{ "selector": ".aplayer-icon-back", "text": ["在这里可以切换到<span style=\"color:#0099cc;\">上一首</span>呢"] },
+	{ "selector": ".aplayer-icon-forward", "text": ["在这里可以切换到<span style=\"color:#0099cc;\">下一首</span>呢"] },
+	{ "selector": ".aplayer-volume-wrap", "text": ["在这里可以调整<span style=\"color:#0099cc;\">音量</span>呢"] },
+	{ "selector": ".aplayer-icon-menu", "text": ["<span style=\"color:#0099cc;\">播放列表</span>里都有什么呢"] },
+	{ "selector": ".aplayer .aplayer-fixed .aplayer-lrc", "text": ["有歌词的话，窝家主人说你也可以跟着唱~"] },
+	{ "selector": "#waifu #live2d", "text": ["干嘛呢你，快把手拿开", "鼠…鼠标放错地方了！"] },{
 		"selector": "#live2d",
 		"text": ["干嘛呢你，快把手拿开～～", "鼠…鼠标放错地方了！", "你要干嘛呀？", "喵喵喵？", "怕怕(ノ≧∇≦)ノ", "非礼呀！救命！", "这样的话，只能使用武力了！", "我要生气了哦", "不要动手动脚的！", "真…真的是不知羞耻！", "Hentai！"]
 	}, {
