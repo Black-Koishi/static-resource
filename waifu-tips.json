@@ -1,9 +1,11 @@
 {
-	"mouseover": [{ "selector": ".esa-profile-avatar", "text": ["这是主人的宝贝呢"] },
+	"mouseover": [
+		{ "selector": "#blog_nav_myyoulian", "text": ["还没有友链呢, 你的博客会成为第一个友链吗?"] },
+	{ "selector": ".cd-top", "text": ["点一下那只猫就能回到顶部哦"] },
+	{ "selector": ".esa-profile-avatar", "text": ["这是主人的宝贝呢"] },
 	{ "selector": "#blog_nav_myhome", "text": ["想要回首页看看么"] },
 	{ "selector": "#blog_nav_contact", "text": ["这里可以联系到主人呢"] },
 	{ "selector": "#blog_nav_myguanyu", "text": ["这里可以详细了解主人哦"] },
-	{ "selector": "#blog_nav_myyoulian", "text": ["想要添加个<span style=\"color:#0099cc;\">友链</span>嘛"] },
 	{ "selector": "#comment_go", "text": ["想要去评论些什么吗？"] },
 	{ "selector": "#night_mode", "text": ["深夜时要爱护眼睛呀"] },
 	{ "selector": ".esa-toolbar .esa-toolbar-follow", "text": ["你抓到我了哦嘻嘻嘻ψ(｀∇´)ψ"] },
